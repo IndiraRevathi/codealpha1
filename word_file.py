@@ -1,0 +1,9 @@
+words=[
+    "jenny",
+    "apple",
+    "beautiful",
+    "indira",
+    "attitude",
+    "aeroplane",
+    "mango"
+]
